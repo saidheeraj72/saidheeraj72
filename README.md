@@ -6,6 +6,8 @@ Artificial Intelligence
 Feel free to connect with me here:
 <div align="center">
 
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https:/www.linkedin.com/in/saidheeraj72)](https://www.linkedin.com/in/saidheeraj72)
+[![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:saidheeraj7272@gmail.com)](mailto:saidheeraj7272@gmail.com)
 
 
 ## Technology Stack:

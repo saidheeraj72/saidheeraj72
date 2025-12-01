@@ -23,18 +23,4 @@ Feel free to connect with me here:
 ![Sklearn](https://img.shields.io/badge/Sklearn-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
 <br>
 
-
-<a>
-  <img height=140 src="https://github-readme-stats.vercel.app/api?username=saidheeraj72&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Stats">
-</a>
-<a>
-  <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidheeraj72&layout=compact&exclude_repo=ADS-lab,TSP-using-GA,PR-ML-Lab&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="GitHub Languages">
-</a>
-
-<img height=140 src="https://streak-stats.demolab.com?user=saidheeraj72&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
-
-
-
-
-
 </div>

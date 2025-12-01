@@ -1,26 +1,26 @@
+# Sai Dheeraj Koneti 👨‍💻
 
+> *AI Software Engineer passionate about Computer Vision, LLMs, and efficient Model Deployment.*
 
-I'm Sai Dheeraj,Completed Btech in computer science with major in AI @[IIIT Kancheepuram](https://www.iiitdm.ac.in/).
-My Area of interests:
-Artificial Intelligence
-Feel free to connect with me here:
-<div align="center">
+### 🧐 About Me
+I am a Computer Science engineer specializing in Artificial Intelligence.I have experience building industrial-grade AI solutions, including a user manual chatbot for **ESAB India** using Retrieval-Augmented Generation (RAG).Previously, I worked as a Research Intern at **IIITDM Kancheepuram**, focusing on non-invasive cattle recognition using Retinal Vein biometrics.
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-181825?style=for-the-badge&logo=linkedin&logoColor=0A66C2&link=https:/www.linkedin.com/in/saidheeraj72)](https://www.linkedin.com/in/saidheeraj72)
-[![Gmail Badge](https://img.shields.io/badge/gmail-181825?style=for-the-badge&logo=gmail&logoColor=EA4335&link=mailto:saidheeraj7272@gmail.com)](mailto:saidheeraj7272@gmail.com)
+### 🔬 Technical Expertise
 
+#### 🤖 Artificial Intelligence & LLMs
+**Generative AI:** Expert in implementing RAG pipelines with Open Source LLMs (Llama 3.1) and vector stores.
+**Computer Vision:** Deep understanding of Object Detection (YOLO, RetinaNet) and Image Compression using Convolutional Autoencoders (CAE).
+**Data Science:** Feature engineering, data collection, and processing for industrial machine learning applications.
 
-## Technology Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-<br>
-![Data Science](https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logo=datascience&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
-![Tiny ML](https://img.shields.io/badge/Tiny%20ML-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
-<br>
-![Tensorflow](https://img.shields.io/badge/TensorFlow-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
-![Sklearn](https://img.shields.io/badge/Sklearn-3776AB?style=for-the-badge&logo=machinelearning&logoColor=white)
-<br>
+#### 💻 Engineering & Deployment
+* **Backend:** Python, FastAPI, Flask.
+**Frontend:** ReactJS, Flutter (Mobile).
+**Deployment:** Model serialization (pickle), API integration, and real-time data processing.
 
-</div>
+### 📂 Featured Projects
+1.  **ESAB User Manual Chatbot:** Processed table/text data for a RAG chatbot using Llama 3.1 and BAAI embeddings.
+2.  **Cattle Recognition System:** Real-time muzzle detection using YOLOv7 and ResNet50+FAISS embeddings for identification.
+3.  **AUV Image Compression:** Developed a system using CAEs to optimize storage for Autonomous Underwater Vehicles.
+
+---
+[LinkedIn](https://www.linkedin.com/in/saidheeraj72/) • [GitHub](https://github.com/saidheeraj72/saidheeraj72)

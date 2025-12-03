@@ -4,7 +4,7 @@
 
 ### 🧐 About Me
 I am a Computer Science engineer specializing in Artificial Intelligence.I have experience building industrial-grade AI solutions, including a user manual chatbot for **ESAB India** using Retrieval-Augmented Generation (RAG).Previously, I worked as a Research Intern at **IIITDM Kancheepuram**, focusing on non-invasive cattle recognition using Retinal Vein biometrics.
-
+   
 ### 🔬 Technical Expertise
 
 #### 🤖 Artificial Intelligence & LLMs

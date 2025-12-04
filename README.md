@@ -19,7 +19,7 @@ I am a Computer Science engineer specializing in Artificial Intelligence.I have 
 
 ### 📂 Featured Projects
 1.  **ESAB User Manual Chatbot:** Processed table/text data for a RAG chatbot using Llama 3.1 and BAAI embeddings.
-2.  **Cattle Recognition System:** Real-time muzzle detection using YOLOv7 and ResNet50+FAISS embeddings for identification.
+2.  **Cattle Recognition System:** Real-time muzzle detection using YOLOv7 and ResNet50+FAISS embeddings for identification.Deployed a mobile app
 3.  **AUV Image Compression:** Developed a system using CAEs to optimize storage for Autonomous Underwater Vehicles.
 
 ---

@@ -24,3 +24,10 @@ I am a Computer Science engineer specializing in Artificial Intelligence.I have 
 
 ---
 [LinkedIn](https://www.linkedin.com/in/saidheeraj72/) • [GitHub](https://github.com/saidheeraj72/saidheeraj72)
+
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=saidheeraj72" alt="Sai Dheeraj's Github Stats" />
+</p>

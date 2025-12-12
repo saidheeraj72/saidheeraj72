@@ -21,6 +21,7 @@ I am a Computer Science engineer specializing in Artificial Intelligence.I have 
 1.  **ESAB User Manual Chatbot:** Processed table/text data for a RAG chatbot using Llama 3.1 and BAAI embeddings.
 2.  **Cattle Recognition System:** Real-time muzzle detection using YOLOv7 and ResNet50+FAISS embeddings for identification.Deployed a mobile app
 3.  **AUV Image Compression:** Developed a system using CAEs to optimize storage for Autonomous Underwater Vehicles.
+4.  **Developed an intelligent Resource Management System integrating Natural Language Processing (NLP)** The application interprets user commands to perform complex CRUD operations—such as adding employees, modifying project scopes, and filtering datasets. It utilizes an underlying planning algorithm to automatically optimize resource distribution across multiple projects based on real-time constraints.
 
 ---
 [LinkedIn](https://www.linkedin.com/in/saidheeraj72/) • [GitHub](https://github.com/saidheeraj72/saidheeraj72)

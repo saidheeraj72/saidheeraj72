@@ -30,5 +30,6 @@ I am a Computer Science engineer specializing in Artificial Intelligence.I have 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=saidheeraj72" alt="Sai Dheeraj's Github Stats" />
+   <img height=140 src="https://streak-stats.demolab.com?user=saidheeraj72&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
+
 </p>

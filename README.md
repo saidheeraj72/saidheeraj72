@@ -27,9 +27,14 @@ I am a Computer Science engineer specializing in Artificial Intelligence.I have 
 [LinkedIn](https://www.linkedin.com/in/saidheeraj72/) • [GitHub](https://github.com/saidheeraj72/saidheeraj72)
 
 
+
 ### 📊 GitHub Stats
 
-<p align="left">
-   <img height=140 src="https://streak-stats.demolab.com?user=saidheeraj72&theme=catppuccin-mocha&exclude_days=Sat%2CSun" alt="GitHub Streak">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saidheeraj72&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saidheeraj72&theme=tokyonight" height="165"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidheeraj72&layout=compact&theme=tokyonight" height="165"/>
 </p>
